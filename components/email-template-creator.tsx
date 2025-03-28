@@ -489,7 +489,7 @@ export default function EmailTemplateCreator() {
                 alt="Emojot Logo"
                 className="h-10 mr-3"
               />
-              <h1 className="text-2xl font-bold text-gray-800">Emojot Email Template Creator</h1>
+              <h1 className="text-2xl font-bold text-gray-800">Email Template Creator</h1>
             </div>
             <div className="flex space-x-2">
               <Button variant="outline" size="sm" onClick={() => setShowVariablesModal(true)}>
